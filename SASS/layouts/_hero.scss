@@ -17,7 +17,11 @@
   background-size: cover;
 }
 
-.hero-title {
+.hero_container {
+  text-align: center;
+}
+
+.hero__title {
   width: 696px;
 
   color: var(--light-white-color);
@@ -25,7 +29,7 @@
   font-size: 44px;
   line-height: calc(60 / 44);
   letter-spacing: 0.06em;
-  text-align: center;
+  // text-align: center;
   text-transform: uppercase;
   margin-left: auto;
   margin-right: auto;
