@@ -71,7 +71,6 @@
 
 .portfolio-projects-list__overlay {
   @extend %alignmentflex;
-
   position: absolute;
   top: 100%;
   left: 0;
@@ -79,6 +78,7 @@
   height: 100%;
   padding-left: 24px;
   padding-right: 24px;
+
   background-color: rgba(33, 150, 243, 0.9);
 
   overflow: hidden;
