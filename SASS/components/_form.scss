@@ -94,10 +94,8 @@
 }
 
 .register-form-agreement {
-  display: flex;
+  @extend %alignmentflex;
   gap: 8px;
-  align-items: center;
-  justify-content: center;
   margin-bottom: 30px;
 }
 

@@ -1,9 +1,6 @@
-body {
-  font-family: var(--main-font);
-  font-size: 14px;
-  line-height: calc(16 / 14);
-  letter-spacing: 0.03em;
-
-  color: var(--main-txt-color);
-  background-color: var(--main-bg-color);
-}
+@import "../base/reset";
+@import "../base/body";
+@import "../base/container";
+@import "../base/title";
+@import "../base/text";
+@import "../base/backdrop";

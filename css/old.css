@@ -300,13 +300,13 @@ img {
 
 /* Sections */
 
-.section-title {
+/* .section-title {
   margin-bottom: 50px;
   font-weight: 700;
   font-size: 36px;
   line-height: calc(42 / 36);
   text-align: center;
-}
+} */
 
 /* .visually-hidden {
   position: absolute;
@@ -321,14 +321,14 @@ img {
   overflow: hidden;
 } */
 
-.section-benefits,
+/* .section-benefits,
 .section-team,
 .section-portfolio,
 .section-clients {
   text-align: center;
   padding-top: 94px;
   padding-bottom: 94px;
-}
+} */
 
 /* Company benefits */
 

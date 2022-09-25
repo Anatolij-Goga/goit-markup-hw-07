@@ -1,34 +1,15 @@
 /*Utils*/
 
-@import "./utilts/vars";
-@import "./utilts/placeholder";
-@import "./utilts/visually-hidden";
+@import "./utilts/utilts";
 
 /*Base*/
 
-@import "./base/reset";
 @import "./base/base";
-@import "./base/container";
-@import "./base/title";
-@import "./base/text";
-@import "./base/backdrop";
 
 /*Components*/
 
-@import "./components/logo";
-@import "./components/navigation";
-@import "./components/contacts";
-@import "./components/buttons";
-@import "./components/modal";
-@import "./components/form";
+@import "./components/components";
 
 /*Layouts*/
 
-@import "./layouts/header";
-@import "./layouts/hero";
-@import "./layouts/benefits";
-@import "./layouts/activities.scss";
-@import "./layouts/team";
-@import "./layouts/clients";
-@import "./layouts/footer";
-@import "./layouts/portfolio";
+@import "./layouts/layouts";
